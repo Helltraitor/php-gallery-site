@@ -1,0 +1,8 @@
+.idea/
+cache/
+config/
+image-db/
+!image-db/README.MD
+public/dists/bootstrap/5.0.2/*
+!public/dists/bootstrap/5.0.2/README.md
+vendor/
